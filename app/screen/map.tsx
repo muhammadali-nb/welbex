@@ -9,9 +9,7 @@ const MapPage = ({ route }: StackScreenProps) => {
 	//@ts-ignore
 	const { address, car_id, driver } = route.params;
 
-	useEffect(() => {
-		log(address);
-	}, [address]);
+	
 
 	return (
 		<MapLayout>
