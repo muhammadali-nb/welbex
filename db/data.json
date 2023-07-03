@@ -1,0 +1,298 @@
+[
+	{
+		"id": "1",
+		"car_id": "#jdfjA82",
+		"name": "Mikhail Litvin",
+		"phone": "+998 99 840 45 41",
+		"category": "Passenger",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.210348,
+					"lat": 41.300087
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.247171,
+					"lat": 41.316562
+				}
+			]
+		}
+	},
+	{
+		"id": "2",
+		"car_id": "#jdd3092",
+		"name": "andrey brat",
+		"phone": "+998 99 666 07 89",
+		"category": "Cargo",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.210348,
+					"lat": 41.300087
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.247171,
+					"lat": 41.316562
+				}
+			]
+		}
+	},
+
+	{
+		"id": "3",
+		"car_id": "#wkfnewknf",
+		"name": "Sashka Egorov",
+		"phone": "+998 99 111 37 49",
+		"category": "Special",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.318285,
+					"lat": 41.275742
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.27429,
+					"lat": 41.299476
+				},
+				{
+					"title": "Parking #3",
+					"lng": 69.333372,
+					"lat": 41.334545
+				},
+				{
+					"title": "Parking #4",
+					"lng": 41.347948,
+					"lat": 69.278407
+				}
+			]
+		}
+	},
+	{
+		"id": "4",
+		"car_id": "#fnewfnj1",
+		"name": "Aleksey Mishka",
+		"phone": "+998 99 888 18 28",
+		"category": "Passenger",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.318285,
+					"lat": 41.275742
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.247171,
+					"lat": 41.316562
+				},
+
+				{
+					"title": "Parking #3",
+					"lng": 69.333372,
+					"lat": 41.334545
+				},
+				{
+					"title": "Parking #4",
+					"lng": 41.347948,
+					"lat": 69.278407
+				}
+			]
+		}
+	},
+	{
+		"id": "5",
+		"car_id": "#fnewfnj1",
+		"name": "Jonh Doe",
+		"phone": "+998 99 777 98 19",
+		"category": "Passenger",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.318285,
+					"lat": 41.275742
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.247171,
+					"lat": 41.316562
+				},
+
+				{
+					"title": "Parking #3",
+					"lng": 69.333372,
+					"lat": 41.334545
+				},
+				{
+					"title": "Parking #4",
+					"lng": 41.347948,
+					"lat": 69.278407
+				}
+			]
+		}
+	},
+	{
+		"id": "6",
+		"car_id": "#efefwfw",
+		"name": "Violet Myers",
+		"phone": "+998 99 666 66 66",
+		"category": "Passenger",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.318285,
+					"lat": 41.275742
+				},
+
+				{
+					"title": "Parking #2",
+					"lng": 41.347948,
+					"lat": 69.278407
+				}
+			]
+		}
+	},
+	{
+		"id": "7",
+		"car_id": "#jdfjA82",
+		"name": "Mikhail Litvin",
+		"phone": "+998 99 840 45 41",
+		"category": "Passenger",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.210348,
+					"lat": 41.300087
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.247171,
+					"lat": 41.316562
+				}
+			]
+		}
+	},
+	{
+		"id": "8",
+		"car_id": "#fefwfwf",
+		"name": "Misha 0,5",
+		"phone": "+998 99 666 07 89",
+		"category": "Cargo",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.210348,
+					"lat": 41.300087
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.247171,
+					"lat": 41.316562
+				}
+			]
+		}
+	},
+
+	{
+		"id": "9",
+		"car_id": "#wbdw",
+		"name": "Egor Saidov",
+		"phone": "+998 99 111 37 49",
+		"category": "Special",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.318285,
+					"lat": 41.275742
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.27429,
+					"lat": 41.299476
+				},
+				{
+					"title": "Parking #3",
+					"lng": 69.333372,
+					"lat": 41.334545
+				},
+				{
+					"title": "Parking #4",
+					"lng": 41.347948,
+					"lat": 69.278407
+				}
+			]
+		}
+	},
+	{
+		"id": "10",
+		"car_id": "#knfjn",
+		"name": "Jonny Locca",
+		"phone": "+998 99 888 18 28",
+		"category": "Passenger",
+		"whatsapp": "https://whatsapp/litvin_mikhail",
+		"address": {
+			"lng": 69.240562,
+			"lat": 41.311081,
+			"parkings": [
+				{
+					"title": "Parking #1",
+					"lng": 69.318285,
+					"lat": 41.275742
+				},
+				{
+					"title": "Parking #2",
+					"lng": 69.247171,
+					"lat": 41.316562
+				},
+
+				{
+					"title": "Parking #3",
+					"lng": 69.333372,
+					"lat": 41.334545
+				},
+				{
+					"title": "Parking #4",
+					"lng": 41.347948,
+					"lat": 69.278407
+				}
+			]
+		}
+	}
+]

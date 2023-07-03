@@ -1,0 +1,10 @@
+const userdata = {
+	fullname: "Mikhail Litvin",
+	id: "Pemfkenf",
+	phone: "998 99 840 66 01",
+	messanger: "whats app",
+	location: {
+		lat: "",
+		lng: "",
+	},
+};
